@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Bess Sadler | Blog
+title: Bess Sadler|Blog
 description: A blog  # this means to ignore newlines until "baseurl:"
 baseurl: "/bess-sadler" # the subpath of your site, e.g. /blog
 url: "https://cat9563.github.io/bess-sadler/" # the base hostname & protocol for your site, e.g. http://example.com
