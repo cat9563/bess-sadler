@@ -2,20 +2,25 @@
 $primary-color: #1ABC9C;
 $secondary-color: #C19CD8;
 $highlight: #ffeea8;
-$text: #101010;
+//$text: #C9D3E7; //orginal
+$text: #121212; //adjust titles, dates, body of main article/pages .. everything except card text
 $gray-blue: #707890;
 $white: #ffffff;
 $black: #101010;
 $lighten-black: #323743;
-$blue-black: #2D2D3C;
-$blue-darken: #fff;
+$blue-black: #2C2F36;
+$blueish: #0d0d61;
+$blue-darken: #232427;
 $green-darken: #2C3635;
 $danger: #e02f40;
 $success: #34a74e;
 
 
 // Background Colors
-$background: $blue-black;
+//$background: $blue-black;
+// $background: $blueish;
+$background: $white;
+
 
 // Body Color
 $body-color: $text;
@@ -32,5 +37,4 @@ $button-color: $white;
 $button-background-color: $primary-color;
 
 // Border
-// $border-color: #3E4250;
-$border-color: #black;
+$border-color: #3E4250;
