@@ -3,7 +3,7 @@ layout: post
 title:  I aim to be the Granny Weatherwax of free software
 date:   2020-07-15 16:03:30 +0300
 image:  granny1.jpeg
-tags:   Life
+tags:   Goals
 ---
 
 # I aim to be the Granny Weatherwax of free software
