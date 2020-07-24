@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-image: sceneHouse.jpeg
+image: 01.jpg
 ---
 
 ### THE CODE4LIB JOURNAL – FEMINISM AND THE FUTURE OF LIBRARY DISCOVERY

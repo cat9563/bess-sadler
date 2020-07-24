@@ -2,13 +2,13 @@
 $primary-color: #1ABC9C;
 $secondary-color: #C19CD8;
 $highlight: #ffeea8;
-$text: #C9D3E7;
+$text: #101010;
 $gray-blue: #707890;
 $white: #ffffff;
 $black: #101010;
 $lighten-black: #323743;
-$blue-black: #2C2F36;
-$blue-darken: #232427;
+$blue-black: #2D2D3C;
+$blue-darken: #fff;
 $green-darken: #2C3635;
 $danger: #e02f40;
 $success: #34a74e;
@@ -32,4 +32,5 @@ $button-color: $white;
 $button-background-color: $primary-color;
 
 // Border
-$border-color: #3E4250;
+// $border-color: #3E4250;
+$border-color: #black;

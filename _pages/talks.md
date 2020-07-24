@@ -2,7 +2,7 @@
 layout: page
 title: Talks
 permalink: /talks/
-image: sceneHouse.jpeg
+image: 01.jpg
 ---
 
 ## Talks I have given

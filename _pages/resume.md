@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-image: sceneHill.jpeg
+image: 01.jpg
 ---
 
 # SELECTED OPEN SOURCE PROJECTS

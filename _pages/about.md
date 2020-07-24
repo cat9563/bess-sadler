@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: sceneHill.jpeg
+image: 01.jpg
 permalink: /about/
 ---
 
